@@ -1,68 +1,69 @@
-## Hi, I'm Ayan Salkhayeva 👋
+## Hi there 👋
 
-Software Engineering student at **Constructor University (Germany)** focused on **algorithms, systems programming, and building efficient software**.
-I enjoy working on problems that combine **mathematical reasoning with practical system design**.
+I'm **Ayan Salkhayeva**, a Software, Data & Technology student at **Constructor University (Germany)**.
+
+I enjoy building programs where **algorithms, mathematics, and software engineering meet**.
+Most of my projects focus on **CLI applications, algorithmic logic, and systems-oriented programming**.
 
 ---
 
-## Tech Stack
+### 🧠 Interests & Focus Areas
+
+* Software engineering and low-level systems
+* Algorithms and data structures
+* Functional and logical programming (Lean 4, Kotlin)
+* Operating systems and concurrency
+* Mathematical reasoning in software design
+
+---
+
+### 🌱 Currently Exploring
+
+* Operating systems and concurrency
+* Advanced algorithms and data structures
+* Functional programming concepts
+* Systems programming in **C/C++**
+
+---
+
+### 🛠️ Tech Stack
 
 **Languages**
 C • C++ • Python • Kotlin • Lean 4
 
-**Tools & Environment**
+**Tools**
 Git • Linux • CLI development
 
-**Core Concepts**
-Algorithms • Data Structures • Complexity Analysis • Concurrency • Systems Programming • Probability
+**Concepts**
+Algorithms • Data Structures • Complexity Analysis • Concurrency • Systems Programming
 
 ---
 
-## Featured Projects
+### 🚀 Featured Projects
 
-**Minesweeper — Kotlin**
-Terminal-based implementation of the classic Minesweeper game.
+**Minesweeper (Kotlin)**
+Terminal-based Minesweeper implementation with flood-fill reveal algorithm and safe-first-click logic.
 
-* Implemented **safe-first-click logic**
-* Designed **flood-fill reveal algorithm**
-* Built modular **game state management**
-* ASCII board rendering for CLI interface
+**Bill Splitter (Python)**
+CLI tool that distributes expenses among participants with structured input handling and randomized cost exemption.
 
-**Bill Splitter — Python**
-Command-line tool for managing shared expenses.
-
-* Distributes costs across participants
-* Includes **randomized exemption logic**
-* Structured input handling and modular design
-
-**Loan Calculator — Python**
-Financial CLI calculator for loan repayment modeling.
-
-* Computes **annuity and differentiated payments**
-* Implemented **argument parsing with argparse**
-* Includes validation and financial formula implementation
+**Loan Calculator (Python)**
+Command-line financial calculator implementing annuity and differentiated loan payments.
 
 ---
 
-## Current Focus
+### 📈 What I Enjoy Building
 
-* Operating systems and concurrency
-* Algorithm design and optimization
-* Systems programming in **C/C++**
-* Functional and logical programming (**Lean 4, Kotlin**)
-
----
-
-## Interests
-
-* Software engineering
-* Algorithms and optimization
-* Systems and low-level programming
-* Reliable and scalable system design
+* Clean and structured command-line tools
+* Algorithmic problem solving
+* Efficient and well-designed software systems
 
 ---
 
-## Contact
+### 📫 Connect With Me
 
-LinkedIn: [https://www.linkedin.com/in/ayan-salkhayeva/](https://www.linkedin.com/in/ayan-salkhayeva/)
-Email: [asalkhayeva@constructor.university](mailto:asalkhayeva@constructor.university)
+LinkedIn
+[https://www.linkedin.com/in/ayan-salkhayeva-1a8507272/](https://www.linkedin.com/in/ayan-salkhayeva/)
+
+Email
+[asalkhayeva@constructor.university](mailto:asalkhayeva@constructor.university)
