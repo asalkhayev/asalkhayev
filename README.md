@@ -1,29 +1,68 @@
-## Hi there 👋
-## About Me
+## Hi, I'm Ayan Salkhayeva 👋
 
-I'm **Ayan Salkhayeva**, a Software, Data & Technology student at **Constructor University, Germany**.  
-My academic focus lies in **algorithms, systems programming, and formal reasoning**, combining practical development with mathematical precision.  
+Software Engineering student at **Constructor University (Germany)** focused on **algorithms, systems programming, and building efficient software**.
+I enjoy working on problems that combine **mathematical reasoning with practical system design**.
 
-🧠 **Interests & Focus Areas**  
-- Software engineering and low-level systems  
-- Functional and logic-based programming (Lean, Kotlin)  
-- Algorithm design, data structures, and optimization  
-- Operating systems and computer architecture  
-- Data analysis and probability modeling  
+---
 
-🌱 **Currently learning:**  
-- Operating Systems and Concurrency  
-- Advanced Algorithms & Data Structures  
-- Functional Programming (Haskell concepts in Kotlin/Lean)  
+## Tech Stack
 
-🧠 **Technical Skills:**  
-C · C++ · Python · Kotlin · Lean 4 · Git · Algorithms · Data Structures  
+**Languages**
+C • C++ • Python • Kotlin • Lean 4
 
-📈 **Mathematical Foundations:**  
-Linear Algebra · Probability & Random Processes · Logic · Discrete Math  
+**Tools & Environment**
+Git • Linux • CLI development
 
-📫 **Reach me at:**  
-[LinkedIn](https://www.linkedin.com/in/ayan-salkhayeva-1a8507272/) • [Email](mailto:asalkhayeva@constructor.university)
+**Core Concepts**
+Algorithms • Data Structures • Complexity Analysis • Concurrency • Systems Programming • Probability
 
-📚 I enjoy building efficient and well-structured programs that reflect both theoretical depth and practical usability.  
-I’m constantly learning, experimenting, and refining my technical foundation — one project at a time.
+---
+
+## Featured Projects
+
+**Minesweeper — Kotlin**
+Terminal-based implementation of the classic Minesweeper game.
+
+* Implemented **safe-first-click logic**
+* Designed **flood-fill reveal algorithm**
+* Built modular **game state management**
+* ASCII board rendering for CLI interface
+
+**Bill Splitter — Python**
+Command-line tool for managing shared expenses.
+
+* Distributes costs across participants
+* Includes **randomized exemption logic**
+* Structured input handling and modular design
+
+**Loan Calculator — Python**
+Financial CLI calculator for loan repayment modeling.
+
+* Computes **annuity and differentiated payments**
+* Implemented **argument parsing with argparse**
+* Includes validation and financial formula implementation
+
+---
+
+## Current Focus
+
+* Operating systems and concurrency
+* Algorithm design and optimization
+* Systems programming in **C/C++**
+* Functional and logical programming (**Lean 4, Kotlin**)
+
+---
+
+## Interests
+
+* Software engineering
+* Algorithms and optimization
+* Systems and low-level programming
+* Reliable and scalable system design
+
+---
+
+## Contact
+
+LinkedIn: [https://www.linkedin.com/in/ayan-salkhayeva/](https://www.linkedin.com/in/ayan-salkhayeva/)
+Email: [asalkhayeva@constructor.university](mailto:asalkhayeva@constructor.university)
